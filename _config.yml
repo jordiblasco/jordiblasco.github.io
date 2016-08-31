@@ -20,7 +20,6 @@ blog_url: "/blog"
 email: jordi.blasco@gmail.com
 
 # typed.js options
-shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
@@ -30,7 +29,6 @@ lines:
   - text: "Founder of HPC Knowledge Portal"
   - text: "Developer of sNow! Cluster Suite"
   - text: "Co-Founder of HPCNow! Consulting"
-#  - text: "HPC Solutions Architect"
 
 avatar: yes
 avatar_img_path: "imgs/avatar.png"
