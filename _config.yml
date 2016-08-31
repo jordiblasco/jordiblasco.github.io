@@ -1,0 +1,48 @@
+# Site settings
+name: Jordi Blasco
+description: "HPC Solutions Architect"
+url: ""
+collections:
+  posts:
+    output:   true
+limit_posts: 10
+future: true
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  jordiblasco
+twitter_username: HPCKP
+google_plus_username: JordiBlasco00
+linkedin_username: jordiblascopallares
+bitbucket_username: jordiblasco
+skype: jordi-blasco
+blog_url: "/blog"
+email: jordi.blasco@gmail.com
+
+# typed.js options
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 1000
+lines:
+  - text: "Founder of HPC Knowledge Portal"
+  - text: "Developer of sNow! Cluster Suite"
+  - text: "Co-Founder of HPCNow! Consulting"
+#  - text: "HPC Solutions Architect"
+
+avatar: yes
+avatar_img_path: "imgs/avatar.png"
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
