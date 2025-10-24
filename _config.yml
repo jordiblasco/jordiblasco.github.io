@@ -14,21 +14,25 @@ github_username:  jordiblasco
 twitter_username: HPCKP
 linkedin_username: jordiblascopallares
 bitbucket_username: jordiblasco
-skype: jordi-blasco
-blog_url: "/blog"
+#skype: jordi-blasco
+#blog_url: "/blog"
 email: jordi.blasco@gmail.com
 
 # typed.js options
 loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
+loop-count: False # Set False for infinite loop, or set any number for a finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 1000
 lines:
-  - text: "Co-Founder of HPCNow! Consulting"
+  - text: "Computational Physicist from the University of Barcelona"
+  - text: "Co-Founder and CEO of Do IT Now - New Zealand"
+  - text: "Co-Founder and CTO of HPCNow!"
   - text: "Founder of HPC Knowledge Portal"
   - text: "Developer of sNow! Cluster Manager"
   - text: "Founder of Skylabs NZ"
+  - text: "Active member of Code Club"
+  - text: "Member of Auckland Astronomical Society"
 
 avatar: yes
 avatar_img_path: "imgs/avatar.png"
